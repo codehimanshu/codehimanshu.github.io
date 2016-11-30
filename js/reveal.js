@@ -97,7 +97,7 @@
 			help: true,
 
 			// Flags if it should be possible to pause the presentation (blackout)
-			pause: true,
+			pause: false,
 
 			// Flags if speaker notes should be visible to all viewers
 			showNotes: false,

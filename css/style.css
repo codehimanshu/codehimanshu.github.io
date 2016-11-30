@@ -1,0 +1,12 @@
+#one_dp {
+	height: 400px;
+	width: 350px;
+	border-radius: 50%;
+}
+section img.social {
+	height: 100px;
+	width: 100px;
+	border: 0px;
+	margin: 20px;
+	border-radius: 9px;
+}
